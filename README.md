@@ -4,6 +4,8 @@ Building an Emoji Dictionary App
 <img src="https://github.com/carlos-santiago-2017/BuildingAnEmojiDictionaryApp/blob/master/1.png">
 </p>
 
+# EmojiTableViewController.swift
+
 ``` swift
 //
 //  EmojiTableViewController.swift
@@ -66,6 +68,8 @@ class EmojiTableViewController: UITableViewController {
 }
 
 ```
+
+# Emoji.swift
 
 ``` swift
 //
