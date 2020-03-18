@@ -46,43 +46,43 @@ Building an Emoji Dictionary App
 </p>
 
 # Table Views
-# 1. [Anatomy of a TableView](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp]
-# 2. [TableView Style](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp]
-# 3. [TableView Editing](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp]
-# 4. [TableView Cells](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp]
-# 5. [TableView Readibility Margings](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp]
-# 6. [Index Paths](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp]
-# 7. [Arrays and TableViews](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp]
-# 8. [Cell Dequeueing](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp]
-# 9. [TableView Protocols](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp]
-# 10. [TableView DataSource](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp]
-# 11. [Number of sections](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp]
-# 12. [Number of rows in a section](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp]
-# 13. [Cell for Row at Index Path](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp]
-# 14. [Implement the data soruce](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp]
-# 15. [Table View Delegate](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp]
-# 16. [Accesory Button Tapped for Row](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp]
-# 17. [Did Select Row](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp]
-# 18. [Implement the delegate](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp]
-# 19. [Reorder cells](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp]
-# 20. [Reload Data](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp]
+# 1. [Anatomy of a TableView](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp)
+# 2. [TableView Style](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp)
+# 3. [TableView Editing](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp)
+# 4. [TableView Cells](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp)
+# 5. [TableView Readibility Margings](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp)
+# 6. [Index Paths](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp)
+# 7. [Arrays and TableViews](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp)
+# 8. [Cell Dequeueing](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp)
+# 9. [TableView Protocols](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp)
+# 10. [TableView DataSource](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp)
+# 11. [Number of sections](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp)
+# 12. [Number of rows in a section](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp)
+# 13. [Cell for Row at Index Path](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp)
+# 14. [Implement the data soruce](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp)
+# 15. [Table View Delegate](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp)
+# 16. [Accesory Button Tapped for Row](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp)
+# 17. [Did Select Row](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp)
+# 18. [Implement the delegate](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp)
+# 19. [Reorder cells](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp)
+# 20. [Reload Data](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp)
 # 
 # Intermediate Table Views
 # 
-# 21. [Custom Table Views](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp]
-# 22. [Content Hugging](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp]
-# 23. [Create Cell Subclass](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp]
-# 24. [Edit Table Views](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp]
-# 25. [Delete Items](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp]
-# 26. [Add and Edid Emoji](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp]
-# 27. [Static Table Views](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp]
-# 28. [Enable Emoji Keyboard](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp]
-# 29. [Pass Data to Static Table View](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp]
-# 30. [Add Action Button with unwind Segue](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp]
-# 31. [Update Save BUtton](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp]
-# 32. [Save Emoji](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp]
-# 33. [Automatic Row Height](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp]
-# 34. [Compression Resistence](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp]
+# 21. [Custom Table Views](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp)
+# 22. [Content Hugging](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp)
+# 23. [Create Cell Subclass](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp)
+# 24. [Edit Table Views](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp)
+# 25. [Delete Items](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp)
+# 26. [Add and Edid Emoji](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp)
+# 27. [Static Table Views](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp)
+# 28. [Enable Emoji Keyboard](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp)
+# 29. [Pass Data to Static Table View](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp)
+# 30. [Add Action Button with unwind Segue](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp)
+# 31. [Update Save BUtton](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp)
+# 32. [Save Emoji](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp)
+# 33. [Automatic Row Height](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp)
+# 34. [Compression Resistence](https://github.com/c4arl0s/BuildingAnEmojiDictionaryApp#buildinganemojidictionaryapp)
 
 # EmojiTableViewController.swift
 
