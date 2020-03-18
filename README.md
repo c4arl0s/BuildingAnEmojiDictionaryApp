@@ -38,12 +38,51 @@ Building an Emoji Dictionary App
 31. [Update Save BUtton]()
 32. [Save Emoji]()
 33. [Automatic Row Height]()
-34. [Compression Resistence]
+34. [Compression Resistence]()
 
 
 <p align="left">
 <img src="https://github.com/carlos-santiago-2017/BuildingAnEmojiDictionaryApp/blob/master/1.png">
 </p>
+
+# Table Views
+# 1. [Anatomy of a TableView]()
+# 2. [TableView Style]()
+# 3. [TableView Editing]()
+# 4. [TableView Cells]()
+# 5. [TableView Readibility Margings]()
+# 6. [Index Paths]()
+# 7. [Arrays and TableViews]()
+# 8. [Cell Dequeueing]()
+# 9. [TableView Protocols]()
+# 10. [TableView DataSource]()
+# 11. [Number of sections]()
+# 12. [Number of rows in a section]()
+# 13. [Cell for Row at Index Path]()
+# 14. [Implement the data soruce]()
+# 15. [Table View Delegate]()
+# 16. [Accesory Button Tapped for Row]()
+# 17. [Did Select Row]()
+# 18. [Implement the delegate]()
+# 19. [Reorder cells]()
+# 20. [Reload Data]()
+# 
+# Intermediate Table Views
+# 
+# 21. [Custom Table Views]()
+# 22. [Content Hugging]()
+# 23. [Create Cell Subclass]()
+# 24. [Edit Table Views]()
+# 25. [Delete Items]()
+# 26. [Add and Edid Emoji]()
+# 27. [Static Table Views]()
+# 28. [Enable Emoji Keyboard]()
+# 29. [Pass Data to Static Table View]()
+# 30. [Add Action Button with unwind Segue]()
+# 31. [Update Save BUtton]()
+# 32. [Save Emoji]()
+# 33. [Automatic Row Height]()
+# 34. [Compression Resistence]()
 
 # EmojiTableViewController.swift
 
